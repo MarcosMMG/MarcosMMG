@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Marcos Moura, aluno do curso Staart
+Olá, eu sou o Marcos Moura, aluno do curso Staart.
 
 ![34155184_452994778459289_2351570482337153024_n](https://user-images.githubusercontent.com/106109166/189761005-b99671d2-dc3c-4442-9c8b-a86460cca1ca.jpg)
 
