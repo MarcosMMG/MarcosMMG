@@ -14,7 +14,7 @@ Moro no Rio de Janeiro-RJ 🌐
 - Ler
 - Viajar
 
-## Atulmente estudando
+## Atualmente estudando
 
 - HTML
 - CSS
